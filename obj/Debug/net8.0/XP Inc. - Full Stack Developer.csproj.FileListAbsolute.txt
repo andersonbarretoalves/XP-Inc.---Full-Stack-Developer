@@ -1,0 +1,14 @@
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\bin\Debug\net8.0\XP Inc. - Full Stack Developer.exe
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\bin\Debug\net8.0\XP Inc. - Full Stack Developer.deps.json
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\bin\Debug\net8.0\XP Inc. - Full Stack Developer.runtimeconfig.json
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\bin\Debug\net8.0\XP Inc. - Full Stack Developer.dll
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\bin\Debug\net8.0\XP Inc. - Full Stack Developer.pdb
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\obj\Debug\net8.0\XP Inc. - Full Stack Developer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\obj\Debug\net8.0\XP Inc. - Full Stack Developer.AssemblyInfoInputs.cache
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\obj\Debug\net8.0\XP Inc. - Full Stack Developer.AssemblyInfo.cs
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\obj\Debug\net8.0\XP Inc. - Full Stack Developer.csproj.CoreCompileInputs.cache
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\obj\Debug\net8.0\XP Inc. - Full Stack Developer.dll
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\obj\Debug\net8.0\refint\XP Inc. - Full Stack Developer.dll
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\obj\Debug\net8.0\XP Inc. - Full Stack Developer.pdb
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\obj\Debug\net8.0\XP Inc. - Full Stack Developer.genruntimeconfig.cache
+C:\Users\anderson.alves\Documents\XP Inc. - Full Stack Developer\obj\Debug\net8.0\ref\XP Inc. - Full Stack Developer.dll
